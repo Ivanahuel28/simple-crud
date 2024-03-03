@@ -1,4 +1,4 @@
-package io.bootify.simple_crud.config;
+package io.simplecrud.config;
 
 import io.bootify.simple_crud.model.ErrorResponse;
 import io.bootify.simple_crud.model.FieldError;

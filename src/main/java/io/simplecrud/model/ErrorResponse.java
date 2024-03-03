@@ -1,8 +1,9 @@
-package io.bootify.simple_crud.model;
+package io.simplecrud.model;
 
-import java.util.List;
 import lombok.Getter;
 import lombok.Setter;
+
+import java.util.List;
 
 
 @Getter

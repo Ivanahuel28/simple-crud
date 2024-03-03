@@ -1,4 +1,4 @@
-package io.bootify.simple_crud.config;
+package io.simplecrud.config;
 
 import java.time.OffsetDateTime;
 import java.util.Optional;

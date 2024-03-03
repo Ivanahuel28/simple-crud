@@ -1,4 +1,4 @@
-package io.bootify.simple_crud.repos;
+package io.simplecrud.repos;
 
 import io.bootify.simple_crud.domain.Article;
 import org.springframework.data.jpa.repository.JpaRepository;

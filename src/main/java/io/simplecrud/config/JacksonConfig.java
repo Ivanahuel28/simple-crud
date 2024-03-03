@@ -1,4 +1,4 @@
-package io.bootify.simple_crud.config;
+package io.simplecrud.config;
 
 import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.SerializationFeature;

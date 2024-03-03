@@ -1,4 +1,4 @@
-package io.bootify.simple_crud;
+package io.simplecrud;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package io.bootify.simple_crud.model;
+package io.simplecrud.dtos;
 
 import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;

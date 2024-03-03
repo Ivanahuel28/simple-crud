@@ -1,4 +1,4 @@
-package io.bootify.simple_crud.model;
+package io.simplecrud.model;
 
 import lombok.Getter;
 import lombok.Setter;
