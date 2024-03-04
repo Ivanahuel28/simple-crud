@@ -25,8 +25,8 @@ public class ArticleController {
     }
 
     @PutMapping
-    public void update(@RequestBody ArticleDTO dto) {
-        articleService.update(dto.getCode());
+    public ResponseEntity update(@RequestBody ArticleDTO dto) {
+        return ResponseEntity.of(Optional.of(articleService.update(dto)));
     }
 
     @DeleteMapping("/api/articles/{code}")
