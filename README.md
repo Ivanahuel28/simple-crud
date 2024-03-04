@@ -5,11 +5,14 @@ This app was created with Bootify.io - more documentation [can be found here](ht
 A Simple crud application to start to get acquainted and practice some concept of Spring Framework.
 
 Implemented techs:
-- Lombok
 - H2 (Embbebed Databse)
 
 ## TO-DO list
  -[ ] Implement GraphQL
+ -[ ] Unit Test for coverage
+ -[ ] Integration Test
+ -[ ] Spring security
+ -[ ] Dockerize
 
 ## Build Methods
 ### Intellij
